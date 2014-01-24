@@ -1,14 +1,40 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <title>The sewage corporation unit</title>
-    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
-  <body>
-    <header>
-      <div class="title">
-        <h2>Bisous Nours</h2>
-     
-    </header>
+   <link rel="stylesheet" href="css/style.css">
+    <title>|The Sewage Corporation Unit|</title>
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <script src="js/jquery-fitvids.js"></script>
+    <script src="js/main.js"></script>
+    <script type="text/javascript"></script>
+    <script>
+      window.onload=function(){
+  var overlay= document.getElementById('girl');
+  var video= document.getElementById('graph');
+  video.addEventListener('progress', function() {
+    var show= video.currentTime>=5 && video.currentTime<10;
+    overlay.style.visibility= show? 'visible' : 'visible';
+  }, false);
+}
+    </script>
+ </head>
+ 
+<body>
+  
+   <div class="column">
+    <video id="girl" controls autoplay loop>
+      <source src="sewage.mp4" type="video/mp4">
+        <source src="video/girl2.ogg" type="video/ogg">
+        </video>
+       </div>  
   </body>
 </html>
