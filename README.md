@@ -10,4 +10,6 @@ Embroidered QR code for a Video Installation.
 
 [id]: img/embroidqr1.jpg "Embroidered QR code"
 
+****
+
 ![QR siign Board](/img/embroidqr2.jpg "Code on board")
