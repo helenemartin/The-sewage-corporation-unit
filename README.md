@@ -6,3 +6,4 @@ Embroidered QR sign for a Video Installation.
 
 [id]: img/embroidqr1.jpg "Embroidered QR sign"
 
+![QR siign Board](/img/embroidqr2.jpg "Optional title")
