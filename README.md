@@ -5,3 +5,7 @@ Embroidered QR sign for a Video Installation.
 ![QR sign][id]
 
 [id]: img/embroidqr1.jpg "Embroidered QR sign"
+
+![QR sign][id]
+
+[id]: img/embroidqr2.jpg "Embroidered QR sign black background"
