@@ -13,3 +13,5 @@ Embroidered QR code for a Video Installation.
 ****
 
 ![QR siign Board](/img/embroidqr2.jpg "Code on board")
+
+* * * *
