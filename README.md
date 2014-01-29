@@ -7,7 +7,7 @@ Embroidered QR code for a Video Installation.
 ****
 ![flyer](/img/riders.jpg "Flyer")
 
-+++++
++++++ ++++ +++++ +++++ +++++ +++++ +++++ +++++
 
 ![three](/img/tres.jpg "Projectors")
 
