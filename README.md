@@ -5,6 +5,13 @@ Embroidered QR code for a Video Installation.
 16 mm Film Installations and Performances, Mafkees Hostel, Rotterdam
 
 ****
+![flyer](/img/riders.jpg "Flyer")
+
++++++
+
+![three](/img/tres.jpg "Projectors")
+
+*****
 
 ![QR sign][id]
 
