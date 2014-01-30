@@ -7,7 +7,7 @@ Embroidered QR code for a Video Installation.
 ****
 
             
-![animation](/img/anim.gif "On mouse over")
+![animation](/img/ani.gif "GIF animation")
 
 
 
