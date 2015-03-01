@@ -22,7 +22,7 @@ Embroidered QR code for a Video Installation.
 
 ![QR sign][id]
 
-[id]: img/embroidqr1.jpg "Embroidered QR code"
+[id]: img/qrfinal.jpg "Embroidered QR code"
 
 ****
 
