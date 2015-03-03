@@ -24,6 +24,8 @@ Embroidered QR code for a Video Installation.
 
 [id]: img/qrfinal.jpg "Embroidered QR code"
 
+Dimensions (5cm/5cm)
+
 <!-- **** -->
 
 <!-- ![QR siign Board](/img/embroidqr2.jpg "Code on board") -->
