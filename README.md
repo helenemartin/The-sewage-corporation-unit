@@ -7,7 +7,7 @@ Embroidered QR code for a Video Installation.
 ****
 
             
-![animation](/img/ani.gif "GIF animation")
+<!-- ![animation](/img/ani.gif "GIF animation")
 
 
 
@@ -18,14 +18,14 @@ Embroidered QR code for a Video Installation.
 
 ![three](/img/tres.jpg "Projectors")
 
-*****
+***** -->
 
 ![QR sign][id]
 
 [id]: img/qrfinal.jpg "Embroidered QR code"
 
-****
+<!-- **** -->
 
-![QR siign Board](/img/embroidqr2.jpg "Code on board")
+<!-- ![QR siign Board](/img/embroidqr2.jpg "Code on board") -->
 
 * * * *
