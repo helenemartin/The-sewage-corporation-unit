@@ -29,8 +29,8 @@ Dimensions (5cm/5cm)
 <!-- **** -->
 
 <!-- ![QR siign Board](/img/embroidqr2.jpg "Code on board") -->
+![QR schema ](https://github.com/helenemartin/The-sewage-corporation-unit/img/QRschema2.jpg  "Schema")
 
 
-[id]: img/QRschema2.jpg "Embroidered QR code"
 
 * * * *
