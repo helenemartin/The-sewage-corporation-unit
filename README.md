@@ -29,5 +29,6 @@ Dimensions (5cm/5cm)
 <!-- **** -->
 
 <!-- ![QR siign Board](/img/embroidqr2.jpg "Code on board") -->
+[id]: img/QRschema2.jpg "Embroidered QR code"
 
 * * * *
