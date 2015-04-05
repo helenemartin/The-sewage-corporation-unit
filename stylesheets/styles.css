@@ -351,6 +351,9 @@ section {
   padding: 20px;
   margin: 100px;
 }
+section img {
+  float: left;
+}
 .quote{
   
   font-style: italic;
