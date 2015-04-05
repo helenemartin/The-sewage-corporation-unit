@@ -350,6 +350,11 @@ section {
   margin: 0;
   padding: 0;
 }
+.quote{
+ 
+  font-style: italic;
+ 
+}
 
 
 @media print, screen and (max-width: 960px) {
