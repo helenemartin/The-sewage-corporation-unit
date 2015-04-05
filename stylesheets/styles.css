@@ -342,13 +342,13 @@ a {
 
 section {
   border: 1px solid #E7E6E6;
-  padding: 50px;
+ 
   border-radius: 6px;
   background-color: rgba(221, 221, 221, 0.3);
   color: black;
   font-style: italic;
-  /*margin-top: 5px;
-  margin-bottom: 5px;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
   padding: 50px;
 }
 
