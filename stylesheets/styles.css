@@ -347,9 +347,8 @@ section {
   background-color: rgba(221, 221, 221, 0.3);
   color: black;
   font-style: italic;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding: 50px;
+  margin: 0;
+  padding: 0;
 }
 
 
