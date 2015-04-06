@@ -349,7 +349,7 @@ section {
 }
 section img {
   width: auto;
-  float: none;
+  float: left;
 }
 .quote{
   
