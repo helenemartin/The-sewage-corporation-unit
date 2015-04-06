@@ -350,6 +350,7 @@ section {
 section img {
   width: auto;
   float: left;
+  padding: 5px;
 }
 .quote{
   
