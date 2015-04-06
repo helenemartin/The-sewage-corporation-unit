@@ -242,12 +242,7 @@ z-index: -1;
   }
 }
 
-img {
-  width: 5%;
-  width: auto;
-  float: none;
-  
-}
+
 
 aside {
     margin: 0 auto;
@@ -359,6 +354,13 @@ section img {
   
   font-style: italic;
  
+}
+
+.quote img {
+  width: 5%;
+  width: auto;
+  float: none;
+  
 }
 
 
