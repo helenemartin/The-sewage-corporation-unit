@@ -348,7 +348,8 @@ section {
   margin: 100px;
 }
 section img {
-  float: left;
+  width: auto;
+  float: none;
 }
 .quote{
   
