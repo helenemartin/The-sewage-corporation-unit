@@ -356,10 +356,10 @@ section img {
  
 }
 
-.quote img {
+img {
   width: 5%;
-  width: auto;
-  float: none;
+ /* width: auto;
+  float: none;*/
   
 }
 
