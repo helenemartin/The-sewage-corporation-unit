@@ -177,11 +177,12 @@ hr {
 }
 */
 body {
-   background: url(../video/girl2.mp4) no-repeat;
-  font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif, sans-serif; font-weight:bold; font-style:normal;
-  margin: 0;
-  padding: 0;
+  padding:50px;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#777;
+  font-weight:300;
 }
+
 del {
   color: grey;
 }
@@ -347,7 +348,7 @@ section {
  
   border-radius: 6px;
   background-color: rgba(221, 221, 221, 0.3);
-  color: black;
+  color: grey;
   padding: 20px;
   margin: 100px;
 }
@@ -377,13 +378,14 @@ section img {
   header {
     padding-right:320px;
   }
-  
+ /* 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
-  }
+
+  }*/
   
   header a small {
     display:inline;
