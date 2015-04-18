@@ -340,12 +340,12 @@ a {
 
 section {
   border: 1px solid #E7E6E6;
- 
   border-radius: 6px;
   background-color: rgba(221, 221, 221, 0.3);
   color: #e91e5c;
   padding: 10px 5px 60px 5px;
   margin: 50px;
+  text-align: justify;
 }
 section img {
   width: auto;
